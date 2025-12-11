@@ -125,7 +125,7 @@ Based on Trinitarian revelation, knowledge has three interrelated dimensions:
 
 ### 信心先于理解 Faith Precedes Understanding
 
-**"我若不信，就不能明白。"（Anselm: Credo ut intelligam）**
+**"我若不信，就不能明白。"** (*Credo ut intelligam* - Anselm)
 
 - 信心不是非理性，而是理性的前提
 - Faith is not irrational, but the prerequisite of reason

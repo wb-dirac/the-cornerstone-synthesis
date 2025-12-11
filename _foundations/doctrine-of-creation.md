@@ -254,7 +254,7 @@ God not only creates, but continuously sustains and governs:
 - 宇宙的数学结构
 - Mathematical structure of universe
 - "神按数目、度量、权衡造万物"（智慧书 11:20）
-- God "ordered all things by measure, number, and weight"
+- God "ordered all things by measure, number, and weight" (Wisdom 11:20)
 
 ## 创造论与进化论 Creation and Evolution
 

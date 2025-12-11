@@ -187,15 +187,16 @@ Identify and retain elements of truth:
 #### 保留标准 Retention Criteria
 
 保留那些：
-Retain what:
 1. 符合观察和经验
-2. Corresponds to observation and experience
-3. 逻辑一致
-4. Is logically consistent
-5. 不违背圣经
-6. Does not contradict Scripture
-7. 促进人类福祉
-8. Promotes human wellbeing
+2. 逻辑一致
+3. 不违背圣经
+4. 促进人类福祉
+
+Retain what:
+1. Corresponds to observation and experience
+2. Is logically consistent
+3. Does not contradict Scripture
+4. Promotes human wellbeing
 
 ### 第四步：拒绝错误 Step 4: Reject Error
 

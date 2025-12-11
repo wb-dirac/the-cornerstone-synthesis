@@ -24,8 +24,8 @@ Formal sciences study abstract symbolic systems and structures, including mathem
 - **神学视角** - Theological perspective
   - 数学反映上帝的理性
   - Mathematics reflects God's rationality
-  - "神按数目、度量、权衡造万物"
-  - God "ordered all things by measure, number, and weight"
+  - "神按数目、度量、权衡造万物"（智慧书 11:20）
+  - God "ordered all things by measure, number, and weight" (Wisdom 11:20)
   - 既有客观性（发现），又有创造性（发明）
   - Both objective (discovered) and creative (invented)
 
