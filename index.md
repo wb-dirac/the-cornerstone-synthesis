@@ -3,7 +3,7 @@ layout: home
 title: 首页
 ---
 
-# 基石合成 The Cornerstone Synthesis
+# 基石综合 The Cornerstone Synthesis
 
 ## 愿景 Vision
 
