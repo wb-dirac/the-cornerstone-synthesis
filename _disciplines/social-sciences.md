@@ -43,9 +43,9 @@ Social sciences study the structure, behavior, and development of human society.
 
 ## 经济学 Economics
 
-> **详细内容请参见：[神圣的管家：重构经济学与商业秩序](/the-cornerstone-synthesis/the-sacred-steward.html)**
+> **详细内容请参见：[神圣的管家：重构经济学与商业秩序](/the-cornerstone-synthesis/disciplines/the-sacred-steward.html)**
 >
-> **For detailed content, see: [The Sacred Steward: Reconstructing Economics and Business Order](/the-cornerstone-synthesis/the-sacred-steward.html)**
+> **For detailed content, see: [The Sacred Steward: Reconstructing Economics and Business Order](/the-cornerstone-synthesis/disciplines/the-sacred-steward.html)**
 >
 
 ### 圣经世界观的重构 Biblical Reconstruction

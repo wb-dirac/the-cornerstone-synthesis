@@ -10,25 +10,25 @@ layout: page
 ## 目录
 
 ### 序言：哲学的新地基
-*   **[序言：哲学的新地基](index.md)** - 哲学的定义重置、核心矛盾与重构总原则。
+*   **[序言：哲学的新地基](index.html)** - 哲学的定义重置、核心矛盾与重构总原则。
 
 ### 第一维度：重构形而上学/本体论 (Metaphysics/Ontology)
-*   **[1.1 终极实在：从“原子/理念”回归“三一真神”](01-ultimate-reality.md)** - 解决“一与多”的难题，确立位格性宇宙。
-*   **[1.2 存有之链：造物主与受造物的绝对区别](02-creator-creature-distinction.md)** - 驳斥泛神论与自然主义，确立创造论与神意。
-*   **[1.3 人论：神的形象 vs. 高级动物](03-anthropology.md)** - 人的尊严、整全性与堕落后的恢复。
+*   **[1.1 终极实在：从“原子/理念”回归“三一真神”](01-ultimate-reality.html)** - 解决“一与多”的难题，确立位格性宇宙。
+*   **[1.2 存有之链：造物主与受造物的绝对区别](02-creator-creature-distinction.html)** - 驳斥泛神论与自然主义，确立创造论与神意。
+*   **[1.3 人论：神的形象 vs. 高级动物](03-anthropology.html)** - 人的尊严、整全性与堕落后的恢复。
 
 ### 第二维度：重构认识论 (Epistemology)
-*   **[2.1 知识的起点：启示先于理性](04-epistemology-revelation.md)** - 突破理性主义与经验主义的死胡同，确立启示的公理地位。
-*   **[2.2 罪对理性的影响 (Noetic Effects of Sin)](05-epistemology-sin.md)** - 揭示理性非中立的神话，分析罪对认知的扭曲。
-*   **[2.3 救赎与知识的恢复](06-epistemology-redemption.md)** - 信仰寻求理解，圣灵的光照与心意的更新。
+*   **[2.1 知识的起点：启示先于理性](04-epistemology-revelation.html)** - 突破理性主义与经验主义的死胡同，确立启示的公理地位。
+*   **[2.2 罪对理性的影响 (Noetic Effects of Sin)](05-epistemology-sin.html)** - 揭示理性非中立的神话，分析罪对认知的扭曲。
+*   **[2.3 救赎与知识的恢复](06-epistemology-redemption.html)** - 信仰寻求理解，圣灵的光照与心意的更新。
 
 ### 第三维度：重构价值论 (Axiology)
-*   **[3.1 伦理学：命令神学 vs. 功利主义](07-axiology-ethics.md)** - 善是上帝本性的流露，动机伦理与爱的秩序。
-*   **[3.2 美学：荣耀的反射 vs. 主观快感](08-axiology-aesthetics.md)** - 客观之美，次创造与救赎性美学。
-*   **[3.3 苦难与恶的问题 (Theodicy)](09-axiology-theodicy.md)** - 自由意志的辩护，苦难的意义与受苦的上帝。
+*   **[3.1 伦理学：命令神学 vs. 功利主义](07-axiology-ethics.html)** - 善是上帝本性的流露，动机伦理与爱的秩序。
+*   **[3.2 美学：荣耀的反射 vs. 主观快感](08-axiology-aesthetics.html)** - 客观之美，次创造与救赎性美学。
+*   **[3.3 苦难与恶的问题 (Theodicy)](09-axiology-theodicy.html)** - 自由意志的辩护，苦难的意义与受苦的上帝。
 
 ### 结语
-*   **[结语：哲学的终极归宿](10-conclusion.md)** - 从爱智慧到敬拜智慧，基督是万有的总意。
+*   **[结语：哲学的终极归宿](10-conclusion.html)** - 从爱智慧到敬拜智慧，基督是万有的总意。
 
 ---
 
