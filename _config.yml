@@ -22,7 +22,7 @@ collections:
     permalink: /:collection/:name
   disciplines:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
   methodology:
     output: true
     permalink: /:collection/:name

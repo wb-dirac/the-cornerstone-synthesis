@@ -67,7 +67,7 @@ Humanities explore human spirit, culture, and creative expression. From a biblic
 ## 哲学 Philosophy
 
 > **详细内容请参见：[智慧的归回：以圣经为根基的哲学重构](/the-cornerstone-synthesis/philosophy/index.html)**
-> **[另一个版本](/_disciplines/philosophy/index.md)**
+> **[另一个版本](/the-cornerstone-synthesis/disciplines/philosophy/index.html)**
 >
 > **For detailed content, see: [The Return of Wisdom: Biblical Reconstruction of Philosophy](/the-cornerstone-synthesis/philosophy/index.html)**
 >

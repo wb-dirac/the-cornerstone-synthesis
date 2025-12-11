@@ -54,6 +54,7 @@ This project is committed to reconstructing the following disciplinary areas fro
 ### [社会科学 Social Sciences](/the-cornerstone-synthesis/disciplines/social-sciences)
 
 - 经济学 Economics
+  - [神圣的管家：重构经济学与商业秩序](/the-cornerstone-synthesis/disciplines/the-sacred-steward)
 - 政治学 Political Science
 - 社会学 Sociology
 - 心理学 Psychology
