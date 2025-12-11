@@ -39,6 +39,7 @@ This project is committed to:
 ### 哲学重构 Philosophy Reconstruction
 
 - [智慧的归回：以圣经为根基的哲学重构](/_philosophy/index.md) - The Return of Wisdom: Biblical Reconstruction of Philosophy
+- [另一个版本](/_disciplines/philosophy/index.md)
   - 本体论重构 - Reconstructing Metaphysics/Ontology
   - 认识论重构 - Reconstructing Epistemology
   - 价值论重构 - Reconstructing Axiology

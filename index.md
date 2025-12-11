@@ -62,6 +62,8 @@ This project is committed to reconstructing the following disciplinary areas fro
 
 - 历史学 History
 - 哲学 Philosophy
+  - [智慧的归回：以圣经为根基的哲学重构](./_philosophy/index.md) - The Return of Wisdom: Biblical Reconstruction of Philosophy
+  - [另一个版本](./_disciplines/philosophy/index.md)
 - 文学 Literature
 - 艺术 Art
 
