@@ -26,6 +26,9 @@ collections:
   methodology:
     output: true
     permalink: /:collection/:name
+  philosophy:
+    output: true
+    permalink: /:collection/:name
 
 # Default values
 defaults:
@@ -42,6 +45,11 @@ defaults:
   - scope:
       path: ""
       type: "methodology"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "philosophy"
     values:
       layout: "page"
 
