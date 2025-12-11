@@ -1,63 +1,97 @@
-## 🏛️ 项目名称：The Cornerstone Synthesis (基石综合)
+# The Cornerstone Synthesis 基石合成
 
-### 简短项目描述 (Short Description / 仓库摘要)
+一个宏伟的学术倡议，旨在**以圣经的世界观和救赎历史的元叙事为基石**，系统地重构和整合所有传统学科的基础理论和知识体系，使一切知识在基督里获得其真正的意义和统一性。
 
-> 一个宏伟的学术倡议，旨在以**圣经的世界观**和**救赎历史的元叙事**为基石，系统地重构和整合所有传统学科的基础理论和知识体系，使一切知识在基督里获得其真正的意义和统一性。
+A grand academic initiative aimed at systematically **reconstructing and integrating the foundational theories and knowledge systems of all traditional disciplines**, based on the biblical worldview and the meta-narrative of redemption history, so that all knowledge gains its true meaning and unity in Christ.
 
----
+## 愿景 Vision
 
+> "我们将各样的计谋，各样拦阻人认识神的那些自高之事一概攻破，又将人所有的心意夺回，使他都顺服基督。"  
+> "We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ."  
+> — 哥林多后书 2 Corinthians 10:5
 
-### The Cornerstone Synthesis (基石综合)
+本项目致力于：
+- 从圣经世界观出发，重新审视和重构各学科的基础理论
+- 在救赎历史的宏大叙事中整合一切知识
+- 使学术研究服侍于上帝国度的拓展和人类的真正繁荣
 
-#### 建立在磐石上的知识体系
+This project is committed to:
+- Re-examining and reconstructing foundational theories of all disciplines from a biblical worldview
+- Integrating all knowledge within the grand narrative of redemption history
+- Making academic research serve the expansion of God's kingdom and true human flourishing
 
-欢迎来到 **The Cornerstone Synthesis**。本项目旨在响应文化使命与学术呼召，系统地以圣经为终极权威，以耶稣基督为核心，重新审视、重构和整合人类文明中的所有学科知识。
+## 项目结构 Project Structure
 
-我们相信，**基督是知识的基石**（歌罗西书 $2:3$；哥林多前书 $3:11$）。只有将知识的根基重新建立在这块永恒的磐石之上，我们才能消除现代学术的碎片化、相对主义和内在矛盾，恢复知识原本的完整性和荣耀。
+### 神学基础 Theological Foundations
 
-#### 🎯 项目目标
+- [圣经世界观](/_foundations/biblical-worldview.md) - Biblical Worldview
+- [救赎历史元叙事](/_foundations/redemption-history.md) - Redemption History Meta-Narrative
+- [神学认识论](/_foundations/theological-epistemology.md) - Theological Epistemology
+- [创造论](/_foundations/doctrine-of-creation.md) - Doctrine of Creation
 
-本项目旨在完成以下核心任务：
+### 学科整合 Disciplinary Integration
 
-1.  **世界观重构：** 在所有学科中，用“创造-堕落-救赎”的圣经元叙事取代世俗主义、自然主义或后现代主义的知识论基础。
-2.  **学科基础再造：** 深入到每个学科（如物理学、历史学、经济学、哲学、心理学等）的核心概念，指出其在世俗框架下的不足，并提供基于救赎史观的稳固基础。
-3.  **整合与统一：** 展示不同学科之间的内在联系和统一性，证明所有真理的源头都指向三位一体的神，并最终聚焦于基督这块基石。
-4.  **开放资源共享：** 将所有重构的理论框架、课程大纲和学术成果以开放资源的形式分享到 GitHub，供全球学者、学生和教育工作者参考和使用。
+- [自然科学](/_disciplines/natural-sciences.md) - Natural Sciences (Physics, Chemistry, Biology, Astronomy)
+- [社会科学](/_disciplines/social-sciences.md) - Social Sciences (Economics, Political Science, Sociology, Psychology)
+- [人文学科](/_disciplines/humanities.md) - Humanities (History, Philosophy, Literature, Art)
+- [形式科学](/_disciplines/formal-sciences.md) - Formal Sciences (Mathematics, Logic, Computer Science)
 
-#### 🧭 核心理论框架：救赎历史透镜
+### 方法论 Methodology
 
-本项目的工作将始终通过以下三个不可分割的阶段进行审视：
+- [整合方法论](/_methodology/integration-methodology.md) - Integration Methodology
 
-| 阶段 | 焦点 | 目标 | 圣经根基 |
-| :--- | :--- | :--- | :--- |
-| **I. 创造 (Creation)** | 秩序与设计 | 探究学科被造的荣耀、法则和完美秩序。 | **本体论：** 世界由神所造，充满意义。 |
-| **II. 堕落 (Fall)** | 扭曲与破碎 | 揭示学科在被罪玷污后，其理论、实践和研究方法中的偶像崇拜、虚妄和偏差。 | **知识论：** 人类的理性被罪玷污，无法靠自己发现全部真理。 |
-| **III. 救赎 (Redemption)** | 更新与恢复 | 在基督的救赎之光下，提供恢复学科真理的途径和更新性的理论基础。 | **使命论：** 所有知识都应被用于服侍基督的国度和荣耀。 |
+## 核心原则 Core Principles
 
-#### 🛠️ 成果与结构
+### 1. 圣经世界观 Biblical Worldview
+圣经不仅是关于救赎的启示，更是关于整个实在的启示，为理解宇宙、人类和一切知识提供根基。
 
-本仓库的结构将按照主要学科领域划分，每个文件夹内将包含该学科的重构成果：
+### 2. 救赎历史元叙事 Redemption History Meta-Narrative
+创造-堕落-救赎-成全的框架为所有知识提供统一的叙事结构和解释框架。
 
-* **`01_Philosophy_Theology/`**：知识论、本体论与伦理学的基督化基础。
-* **`02_SocialSciences/`**：经济学、社会学、政治学的救赎史观视角。
-* **`03_Humanities/`**：历史学、文学、艺术的圣经元叙事分析。
-* **`04_NaturalSciences/`**：物理、生物、宇宙学的神学意涵。
-* **`05_Education_Curriculum/`**：整合课程大纲与教学法。
-* **`Resources/`**：相关书籍推荐、论文引用和工作进度报告。
+### 3. 基督中心 Christ-Centered
+"因为万有都是靠他造的...一切都是藉着他造的，又是为他造的。"（歌罗西书1:16）
 
-#### 🤝 贡献与参与
+### 4. 批判性整合 Critical Integration
+"凡事察验，善美的要持守。"（帖撒罗尼迦前书 5:21）
 
-这是一个需要跨学科合作的宏伟项目。我们诚挚邀请所有认同此愿景的学者、神学生、教育家和程序员加入我们。
+## 如何使用 How to Use
 
-1.  **提交议题 (Issues)：** 提出您认为需要重构的学科核心问题或世俗学术盲点。
-2.  **拉取请求 (Pull Requests)：** 贡献您在某一学科领域中基于圣经的世界观所撰写的理论框架、论文或内容草稿。
-3.  **讨论 (Discussions)：** 参与对复杂概念和重构方法的深度交流。
+### 在线浏览 Browse Online
+访问 GitHub Pages 网站查看完整内容（配置完成后）
 
-让我们共同努力，在基督这块磐石上，重建荣耀上帝的知识殿堂！
+### 本地运行 Run Locally
+```bash
+# Install dependencies
+bundle install
 
----
+# Run Jekyll server
+bundle exec jekyll serve
 
-### **联系方式：**
+# Visit http://localhost:4000/the-cornerstone-synthesis
+```
 
-* *\[the.shame.wang@gmail.com]*
-* *\[CC BY-SA 4.0]*
+## 参与贡献 Contribute
+
+我们欢迎所有认同这一愿景的学者和研究者参与贡献：
+
+- 提交学科整合的学术论文
+- 改进现有文档和理论框架
+- 参与讨论和交流
+- 翻译为其他语言
+
+We welcome all scholars and researchers who share this vision to contribute:
+
+- Submit academic papers on disciplinary integration
+- Improve existing documentation and theoretical frameworks
+- Participate in discussions and exchanges
+- Translate into other languages
+
+## 许可证 License
+
+本项目采用 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)。
+
+## 联系方式 Contact
+
+欢迎通过 GitHub Issues 提出问题、建议或讨论。
+
+Welcome to raise questions, suggestions, or discussions through GitHub Issues.

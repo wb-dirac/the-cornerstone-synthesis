@@ -1,0 +1,55 @@
+# The Cornerstone Synthesis
+# 基石合成 - 以圣经世界观重构知识体系
+
+title: The Cornerstone Synthesis
+description: >-
+  以圣经的世界观和救赎历史的元叙事为基石，
+  系统地重构和整合所有传统学科的基础理论和知识体系
+baseurl: "/the-cornerstone-synthesis"
+url: "https://wb-dirac.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections for organizing content
+collections:
+  foundations:
+    output: true
+    permalink: /:collection/:name
+  disciplines:
+    output: true
+    permalink: /:collection/:name
+  methodology:
+    output: true
+    permalink: /:collection/:name
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "foundations"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "disciplines"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "methodology"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
