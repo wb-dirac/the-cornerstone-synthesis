@@ -6,9 +6,8 @@
 
 ---
 
-## 📜 `README.md` 内容
 
-### \# The Cornerstone Synthesis (基石综合)
+### The Cornerstone Synthesis (基石综合)
 
 #### 建立在磐石上的知识体系
 
