@@ -66,6 +66,14 @@ Humanities explore human spirit, culture, and creative expression. From a biblic
 
 ## 哲学 Philosophy
 
+> **详细内容请参见：[智慧的归回：以圣经为根基的哲学重构](/the-cornerstone-synthesis/philosophy/index.html)**
+>
+> **For detailed content, see: [The Return of Wisdom: Biblical Reconstruction of Philosophy](/the-cornerstone-synthesis/philosophy/index.html)**
+
+本节提供哲学概览，完整的系统性重构请访问专门的哲学重构系列文章。
+
+This section provides a philosophical overview. For complete systematic reconstruction, please visit the dedicated Philosophy Reconstruction series.
+
 ### 圣经世界观的重构 Biblical Reconstruction
 
 #### 本体论 Ontology

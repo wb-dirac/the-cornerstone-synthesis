@@ -36,6 +36,13 @@ This project is committed to:
 - [人文学科](/_disciplines/humanities.md) - Humanities (History, Philosophy, Literature, Art)
 - [形式科学](/_disciplines/formal-sciences.md) - Formal Sciences (Mathematics, Logic, Computer Science)
 
+### 哲学重构 Philosophy Reconstruction
+
+- [智慧的归回：以圣经为根基的哲学重构](/_philosophy/index.md) - The Return of Wisdom: Biblical Reconstruction of Philosophy
+  - 本体论重构 - Reconstructing Metaphysics/Ontology
+  - 认识论重构 - Reconstructing Epistemology
+  - 价值论重构 - Reconstructing Axiology
+
 ### 方法论 Methodology
 
 - [整合方法论](/_methodology/integration-methodology.md) - Integration Methodology
