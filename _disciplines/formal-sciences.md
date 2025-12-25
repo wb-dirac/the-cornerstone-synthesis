@@ -13,6 +13,8 @@ Formal sciences study abstract symbolic systems and structures, including mathem
 
 ## 数学 Mathematics
 
+> **[点击阅读深度重构：数学根基系列文章 (Read the Full Series: Foundations of Mathematics)](mathematics/index.html)**
+
 ### 圣经世界观的重构 Biblical Reconstruction
 
 #### 数学的本质 Nature of Mathematics

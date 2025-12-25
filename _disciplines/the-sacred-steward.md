@@ -1,5 +1,5 @@
 ---
-title: 社会科学整合 Social Sciences Integration
+title: 神圣的管家：重构经济学与商业秩序
 layout: page
 ---
 

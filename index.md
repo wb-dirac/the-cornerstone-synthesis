@@ -71,6 +71,7 @@ This project is committed to reconstructing the following disciplinary areas fro
 ### [形式科学 Formal Sciences](/the-cornerstone-synthesis/disciplines/formal-sciences)
 
 - 数学 Mathematics
+  - [数学根基重构 Foundations of Mathematics](/the-cornerstone-synthesis/disciplines/mathematics/)
 - 逻辑学 Logic
 - 计算机科学 Computer Science
 
