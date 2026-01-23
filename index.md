@@ -74,6 +74,7 @@ This project is committed to reconstructing the following disciplinary areas fro
   - [数学根基重构 Foundations of Mathematics](/the-cornerstone-synthesis/disciplines/mathematics/)
 - 逻辑学 Logic
 - 计算机科学 Computer Science
+- [道与数：数学与逻辑学的圣经世界观重构](./_Logos-and-Number/index.html) - Logos and Number series
 
 ## 方法论 Methodology
 

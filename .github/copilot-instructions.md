@@ -1,0 +1,22 @@
+# Copilot Instructions for this repo
+
+- Purpose: static Jekyll site integrating academic disciplines under a biblical worldview (see [README.md](README.md)).
+- Site config: [_config.yml](_config.yml) sets `baseurl: "/the-cornerstone-synthesis"`, `url: "https://wb-dirac.github.io"`, theme `minima`, markdown `kramdown`, plugins `jekyll-feed` and `jekyll-seo-tag`, and defines collections `foundations`, `disciplines`, `methodology`, `philosophy` with `layout: page` defaults.
+- Dependencies: Ruby/Bundler with gems in [Gemfile](Gemfile); Windows users rely on `wdm` for file watching. No JS/toolchain beyond Jekyll.
+- Build/preview locally:
+  - `bundle install`
+  - `bundle exec jekyll serve` (respects `_config.yml` baseurl; browse at http://localhost:4000/the-cornerstone-synthesis).
+- Content layout:
+  - Theology bases in [_foundations](\_foundations) (e.g., [\_foundations/biblical-worldview.md](\_foundations/biblical-worldview.md)).
+  - Discipline integrations in [_disciplines](\_disciplines) with subfolders (math/philosophy etc., e.g., [\_disciplines/mathematics/01-nature-of-mathematics.md](\_disciplines/mathematics/01-nature-of-mathematics.md)).
+  - Methodology in [_methodology](\_methodology), philosophy essays also mirrored in [_philosophy](\_philosophy), and extended drafts in [_Logos-and-Number](\_Logos-and-Number).
+- Front matter: most pages start with `---`, `layout: page`, `title: ...`. Preserve existing keys; add new ones sparingly to keep collection defaults effective.
+- Writing conventions observed in content:
+  - Bilingual sections: Chinese heading followed by English heading/paragraph; keep parallel structure when editing or adding text.
+  - Scripture or citations often in blockquotes near the top.
+  - Cross-chapter navigation uses relative `.html` links (e.g., `[下一章](02-applicability-of-mathematics.html)`), so align new links with Jekyll’s generated permalinks.
+  - Markdown uses standard headings and lists; avoid custom Liquid unless necessary to stay theme-compatible.
+- Navigation/permalinks: collection items use `/collection/path` per `_config.yml`; nesting under `_disciplines` keeps directory-based permalinks. Use relative links so they work both locally and on GitHub Pages (baseurl-aware).
+- Assets: repo currently text-only; avoid adding heavy assets or changing theme unless requested.
+- License: content under CC BY-SA 4.0 (see [README.md](README.md)); keep attribution-compatible contributions.
+- PR etiquette for AI changes: keep edits minimal and localized; preserve existing bilingual tone; avoid reformatting large sections unless asked.

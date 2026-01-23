@@ -11,6 +11,10 @@ layout: page
 
 Formal sciences study abstract symbolic systems and structures, including mathematics, logic, and computer science. From a biblical worldview, these disciplines reflect God's rational nature and the order of creation.
 
+> 深入阅读： [道与数：数学与逻辑学的圣经世界观重构](../_Logos-and-Number/index.html)
+>
+> Further reading: [Logos and Number series](../_Logos-and-Number/index.html)
+
 ## 数学 Mathematics
 
 > **[点击阅读深度重构：数学根基系列文章 (Read the Full Series: Foundations of Mathematics)](mathematics/index.html)**
